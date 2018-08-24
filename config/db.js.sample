@@ -1,0 +1,3 @@
+module.exports = {
+  url : "mongodb://<dbuser>:<dbpassword>@ds131942.mlab.com:31942/todolist-node"
+};
